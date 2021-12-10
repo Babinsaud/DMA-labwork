@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Linearlayout</string>
+    <string name="Inital">0</string>
+    <string name="count">count</string>
+    <string name="toast">toast</string>
+    <string name="toast_message" >hello it works</string>
+</resources>
