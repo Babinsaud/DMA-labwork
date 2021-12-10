@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TwoActivities</string>
+    <string name="header">header</string>
+    <string name="reply">Reply</string>
+    <string name="message">message</string>
+    <string name="main">main</string>
+    <string name="send">send</string>
+
+</resources>
