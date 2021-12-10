@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">Two Activities</string>
+    <string name="passage_one">
+        For a long time, Native American culture has been misunderstood and unappreciated by many non-native people. Years of Hollywood movies showed Native Americans as villains and clowns. Along with some old-fashioned history books, these films created a negative image of Native American culture. In recent years, however, a new generation of Native American activists and artists have worked to change that. They have brought a respectful and realistic portrayal of Native American culture to the larger society. One of those Native Americans is the artist Charlene Teters.\n\n
+        One night during the 1989 college basketball season, Charlene Teters decided to go to a game. At the time, she was studying for a master\'s degree at the University of Illinois. She decided to take her two children to watch the home team play in the basketball game. They were shocked at a performance by the mascot of the team. The mascot was a student dressed in traditional Native American eagle feathers. They did a fake native dance. Teters, a Native American herself, was deeply offended and her children were hurt and embarrassed.\n\n
+        Teters was born in 1952 and is a member of the Spokane tribe of Washington State. She had grown up near the Spokane tribal reservation. Her grandparents taught her about the traditional beliefs and culture of the Spokane tribe. Tribe members believed it was important to pass their traditional stories from one generation to the next. Her father was an artist, and he inspired her to choose art as a career. She had already completed her college studies in art and was in Illinois for further study.\n\n
+        The mascot that Teters and her children saw at the game was called Chief Illiniwek. That was a name for a group of Native American tribes based in Illinois. By the time Teters arrived at the school, the fictional chief had been a symbol of the university\'s teams for generations. No Native American had ever played the part of the mascot and real native dances were not performed.\n\n
+        Teters was outraged that a university would use a caricature of an ethnic group as a sports mascot. Later, she explained that in our culture, each eagle feather represents a powerful act of generosity toward the tribe. It is earned with great sacrifice, and only a great and powerful tribal elder or politician would be entitled to wear such a thing.\n\n
+        Teters began to protest silently outside sports events at the university. Officials of the university tried to change the rule but were not successful. In the end, the university said that it would no longer use the chief as a symbol of the school. Since then, some students have tried to bring back the traditional mascot but they have failed.\n\n
+    </string>
+    <string name="passage_two">
+
+JavaScript is a programming language that conforms to the ECMAScript specification and enables developers to create and construct complicated, dynamic web page features. It’s a scripting language, meaning that it’s interpreted at runtime by a browser or other software. \n\n
+        Whenever a webpage updates content, displays animated graphics, shows interactive maps, and performs other similar tasks, JavaScript is often at the center of it. Put simply, JavaScript is most commonly used to add interactivity to webpages. Anytime you visit a webpage that requires user input, has embedded video clips, or displays animation, JavaScript was likely involved.\n\n
+        Consider JavaScript the main layer of a standard web technology cake. The other two layers are CSS and HTML. Because JavaScript is such a huge part of web development, it’s one of the most commonly used languages by professional developers. According to a survey conducted by the State of JS, 97% out of 23,000 developers have a working knowledge of JavaScript.\n\n
+        Initially, JavaScript was a scripting language designed to help validate information that users input into forms without slowing down loading times (this was back in the 1990’s when Internet speeds were already slow enough). With time, JavaScript evolved to become a full-blown programming language. Today, developers use JavaScript to create web and mobile applications that can process user actions without needing to load a new page. JavaScript can also be used to build Artificial Intelligence tools.\n\n
+        While JavaScript does have uses outside of web development, its functions for websites are still the most common use for this language. For web development, JavaScript, HTML, and CSS interact with each other to create a website’s front-end design (how the website looks to visitors). They work together by sharing information to create style, content, and interactivity for projects.\n\n
+
+    </string>
+    <string name="passage_three">
+
+        Is Python even any good for game development? For beginner game developers, Python is a great coding language to start with for a few reasons:\n\n
+        1. Easy to understand syntax\n
+2.Ability to reuse code\n
+3. Easy to debug\n
+        While large game studios use languages that offer more speed and allow for better graphics, Python has a lot going for it that makes it an especially useful language for game development. Python is very commonly used by large game studios for game prototyping, which means the original version of some of your favorite games may very well have been written in Python before getting re-made in a faster language. \n\n
+        In addition, large games may supplement their codebase with Python for specific components of their game. Battlefield 2 uses Python for the implementation of scorekeeping and team balancing while Civilization 4 has its inner logic and AI written using Python.\n\n
+        Interestingly, the same properties that make Python a great starting point for the pros are what make it such a great language for beginners taking their first steps into game-making. \n\n
+
+    </string>
+    <string name="TextOne">TextOne</string>
+    <string name="TextTwo">TextTwo</string>
+    <string name="TextThree">TextThree</string>
+</resources>
